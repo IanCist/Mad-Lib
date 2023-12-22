@@ -2,6 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #ffffff;
 }
 
 .container {
@@ -9,9 +10,9 @@ body {
     margin: 0 auto;
 }
 
-header, footer {
-    background-color: #3498db;
-    color: #fff;
+header,footer{
+    background-color: #46bcf3;
+    color: #66bcf3;
     padding: 10px 0;
     text-align: center;
 }
@@ -25,4 +26,12 @@ footer {
 #madLibOutput {
     padding: 20px;
     text-align: center;
+}
+.Headertext {
+    font-family: "groupie-gloss", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+.navbar{
+background-color: #46bcf3;
 }
